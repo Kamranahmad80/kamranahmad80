@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranahmad80&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad80" /> </p>
 
-- 🔭 I’m currently working on **Blog Using React js**
+- 🔭 I’m currently working on **Movie Recommendation System React js**
 
 - 🌱 I’m currently learning **React js**
 
